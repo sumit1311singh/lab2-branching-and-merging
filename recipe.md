@@ -15,6 +15,8 @@ This recipe makes a three-layer celebration cake with a raspberry filling betwee
 - 2 teaspoons vanilla extract
 - 3/4 cup unsweetened cocoa powder
 - 1 cup dark chocolate chips
+- 1 teaspoon my secret ingredient
+- 1 teaspoon the magic touch
 
 ## Filling
 
