@@ -22,6 +22,8 @@ This recipe makes a three-layer celebration cake with a raspberry filling betwee
 - 1 cup fresh raspberries
 - 1 1/2 cups salted caramel sauce
 - 1 cup chopped toasted pecans
+- 1 1/2 cups raspberry preserves
+- 1 cup fresh raspberries
 
 ## Frosting
 
